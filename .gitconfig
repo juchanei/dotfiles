@@ -1,0 +1,6 @@
+[user]
+	email = juchanei.lee@gmail.com
+	name = LEE Juchan
+
+[includeIf "gitdir:~/NaverProjects/"]
+	path = ~/.gitconfig-naver
