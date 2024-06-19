@@ -4,3 +4,5 @@
 
 [includeIf "gitdir:~/NaverProjects/"]
 	path = ~/.gitconfig-naver
+[credential]
+	helper = osxkeychain
